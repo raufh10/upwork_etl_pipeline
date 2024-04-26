@@ -11,7 +11,7 @@
 
 ## ETL Pipeline Overview
 
-This ETL pipeline is an expansion of my previous project (enter project name here), which included an ETL component. I have now developed it into a full ETL pipeline. I'm using Python for extracting, transforming, and loading the data, specifically utilizing BeautifulSoup (bs4) and Playwright for web scraping. For pipeline orchestration, I use Apache Airflow, and for the database, I use MySQL. This project focuses solely on building the pipeline, not on constructing a data warehouse.
+This ETL pipeline is an expansion of my previous project [Upwork Job Post Data Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis), which included an ETL component. I have now developed it into a full ETL pipeline. I'm using Python for extracting, transforming, and loading the data, specifically utilizing BeautifulSoup (bs4) and Playwright for web scraping. For pipeline orchestration, I use Apache Airflow, and for the database, I use MySQL. This project focuses solely on building the pipeline, not on constructing a data warehouse.
 
 Here are picture of pipeline architecture:
 
