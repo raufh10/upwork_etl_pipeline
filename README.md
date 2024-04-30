@@ -56,7 +56,5 @@ In the `database_script` directory, you can find a SQL script that sets up the M
 
 There are several opportunities for improvement in the ETL pipeline:
 
-1. **Parallel Pipeline for Monitoring**: Implement a parallel pipeline that runs concurrently with the main pipeline to monitor its performance and measure processing metrics, ensuring real-time tracking and optimization.
-2. **Error Handling**: Enhance error handling mechanisms to catch and respond to exceptions more effectively, reducing downtime and ensuring the pipeline's reliability.
-3. **Data Validation**: Introduce rigorous data validation checks after each pipeline step to ensure the accuracy and integrity of the data as it moves through the process.
-4. **Enhanced Logging for Documentation**: Implement more comprehensive logging strategies that provide detailed documentation of the pipeline’s operation, aiding in debugging and maintaining historical records for analysis.
+1. **Data Validation**: Introduce rigorous data validation checks after each pipeline step to ensure the accuracy and integrity of the data as it moves through the process.
+2. **Enhanced Logging for Documentation**: Implement more comprehensive logging strategies that provide detailed documentation of the pipeline’s operation, aiding in debugging and maintaining historical records for analysis.
